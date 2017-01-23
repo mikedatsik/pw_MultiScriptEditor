@@ -1,10 +1,9 @@
 import os
 
-from setuptools import setup
+from setuptools import setup, find_packages
 
 ROOT_PATH = os.path.dirname(os.path.realpath(__file__))
 SOURCE_PATH = os.path.join(ROOT_PATH, 'source')
-README_PATH = os.path.join(ROOT_PATH, 'README.rst')
 
 setup(
     name='pw_MultiScriptEditor',
