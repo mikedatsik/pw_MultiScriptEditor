@@ -4,7 +4,7 @@ setup(
     name='pw_MultiScriptEditor',
     version='2.0.3',
     description='Python Editor for CG Applications',
-    url='https://bitbucket.org/ftrack/QtExt',
+    url='https://github.com/mikedatsik/pw_MultiScriptEditor',
     author='paulwinex',
     license='Apache License (2.0)'
 )
