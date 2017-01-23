@@ -6,5 +6,9 @@ setup(
     description='Python Editor for CG Applications',
     url='https://github.com/mikedatsik/pw_MultiScriptEditor',
     author='paulwinex',
-    license='Apache License (2.0)'
+    license='Apache License (2.0)',
+    package_dir={
+        '': ''
+    },
+    zip_safe=False
 )
