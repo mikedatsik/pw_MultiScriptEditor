@@ -1,1 +1,0 @@
-start c:\python27\pythonw.exe scriptEditor.py %*
