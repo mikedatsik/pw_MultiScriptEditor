@@ -8,7 +8,7 @@ setup(
     author='paulwinex',
     license='Apache License (2.0)',
     package_dir={
-        '': ''
+        '': 'pw_multiScriptEditor'
     },
     zip_safe=False
 )
